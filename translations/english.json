@@ -1,0 +1,18 @@
+{
+  "Contact Me": "Contact Me",
+  "Expert Web Developer": "Expert Web Developer",
+  "Quality is my Priority": "Quality is my Priority",
+
+  "React/Node Expert": "React/Node Expert",
+  "messageAboutMe1": "I'm a full stack software engineer with 15 years of experience. My speciality is JavaScript: React, Node.",
+  "messageAboutMe2": "I'm going to prove you that in a long run quality code costs less.",
+
+  "Test Driven Development": "Test Driven Development",
+  "messageTDD": "Simply put: maintainable code is impossible without tests. Robust tests are possible only with Test-first approach.",
+  "Code Quality": "Code Quality",
+  "messageQuality": "Neatly planned distribution of UI into multi-layered components structure. As if lego bricks, small single purpose components are packaged into a Bit.dev collection and showcased with Storybook. Larger components consume these bricks and once combined result in a robust and functional UI.",
+  "Performance": "Performance",
+  "messagePerformance": "Without question React is fast. Yet surrounding ecosystem has plenty of performance traps. I structure the code in a way that computation is done only when underlying data does change.",
+  "Agile and Lean": "Agile and Lean",
+  "messageLean": "I'm an adept of Lean and Agile. Let's work in sprints and make sure deliverable get you the knowledge required to plan for the next step."
+}
