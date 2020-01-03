@@ -38,7 +38,7 @@ const useStyles = makeStyles(theme => ({
     backgroundImage: 'url(/images/tdd.png)',
   },
   code: {
-    backgroundImage: 'url(/images/code.png)',
+    backgroundImage: 'url(/images/quality.svg)',
   },
   performance: {
     backgroundImage: 'url(/images/performance.png)',
